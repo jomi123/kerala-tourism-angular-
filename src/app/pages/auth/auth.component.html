@@ -1,0 +1,8 @@
+<div *ngIf="showLogin">
+
+    <app-login (switchToSignup)="switchToSignup($event)"></app-login>
+
+</div>
+<div *ngIf="!showLogin">
+    <app-signup (switchToSignup)="switchToSignup($event)"></app-signup>
+</div>

@@ -1,0 +1,77 @@
+.container {
+    margin: 2rem auto;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-caption h2,
+.carousel-caption h5 {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+}
+
+.carousel-caption p {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .carousel-item img {
+        height: 18rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .carousel-item img {
+        height: 15rem;
+    }
+
+    .carousel-caption h2,
+    .carousel-caption h5 {
+        font-size: 1.2rem;
+        padding: 0.3rem 0.5rem;
+    }
+}
+
+.row.gap-5 {
+    gap: 2rem 0;
+}
+
+.row.align-items-center .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.place-img {
+    width: 100%;
+    /* Ensures the image takes full width of its container */
+    max-width: 20rem;
+    /* Limits the maximum width */
+    height: auto;
+    /* Maintains the aspect ratio */
+    border-radius: 1rem;
+}
+
+@media (min-width: 992px) {
+    .place-img {
+        width: 20rem;
+        /* Fixed width for larger screens */
+        height: 15rem;
+        /* Fixed height for larger screens */
+        object-fit: cover;
+        /* Ensures the image covers the entire area without distortion */
+    }
+}
+
+@media (max-width: 576px) {
+    .row.align-items-center .col-md-6 {
+        margin-bottom: 1rem;
+    }
+
+    .row.align-items-center .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+}
