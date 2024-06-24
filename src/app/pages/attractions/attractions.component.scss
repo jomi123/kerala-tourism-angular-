@@ -57,12 +57,10 @@
 
 @media (min-width: 992px) {
     .place-img {
-        width: 20rem;
-        /* Fixed width for larger screens */
-        height: 15rem;
-        /* Fixed height for larger screens */
-        object-fit: cover;
-        /* Ensures the image covers the entire area without distortion */
+        width: 100%;
+        max-width: 20rem;
+        height: auto;
+        border-radius: 1rem;
     }
 }
 

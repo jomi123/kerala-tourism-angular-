@@ -15,7 +15,7 @@
         {
           "name": "Alleppey Beach",
           "image":
-            "https://images.pexels.com/photos/26124851/pexels-photo-26124851/free-photo-of-yellow-sky-over-people-on-beach-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/2560px-Alleppey_beach.jpg",
           "description":
             "A scenic beach with a 150-year-old pier extending into the sea."
         }
@@ -98,14 +98,14 @@
         {
           "name": "Bekal Fort",
           "image":
-            "https://www.keralatourism.org/images/destination/mobile/bekal_fort_kasaragod20131031102709_303_1.jpg",
+            "https://cdn.photovaliant.com/wp-content/uploads/2016/01/Bekal-Fort-Kasargod-ABC_2651.jpg",
           "description":
             "The largest fort in Kerala, offering a beautiful view of the Arabian Sea."
         },
         {
           "name": "Ananthapura Lake Temple",
           "image":
-            "https://kannurairport.aero/kial/public/uploads/destination_img/cFOG9hkhmy3MyAB16m2zC1770Du9TS.jpg",
+            "https://www.holidify.com/images/cmsuploads/compressed/ananthapura-lake-temple_20171219215809.jpg",
           "description": "A unique temple located in the middle of a lake."
         }
       ],
@@ -119,15 +119,14 @@
       "topAttractions": [
         {
           "name": "Ashtamudi Lake",
-          "image":
-            "https://images.pexels.com/photos/26115814/pexels-photo-26115814/free-photo-of-view-of-a-lake.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "image":"https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/The-Great%20-Ashtamudi-Lake%20%E2%80%93Truly-a%20-Landscape-Beauty%20-in-Kerala.jpg?VersionId=9Tm8A7i_lfUf6VSRzAppRdIRnjjVI54W&itok=BfELuvQu",
           "description":
             "A large and beautiful lake known for its houseboat cruises."
         },
         {
           "name": "Thangassery Light House",
           "image":
-            "https://ashtamudivillas.com/wp-content/uploads/2023/10/boating_at_sambranikodi2d0200403135955_997_1-1024x550.webp",
+            "https://d26dp53kz39178.cloudfront.net/media/uploads/Travel_Guide_Images/Kovalam.jpg",
           "description":
             "A historic lighthouse offering panoramic views of the Arabian Sea."
         }
@@ -143,14 +142,14 @@
         {
           "name": "Vembanad Lake",
           "image":
-            "https://images.pexels.com/photos/20861964/pexels-photo-20861964/free-photo-of-water-lilies-and-lotus-flowers-on-lake.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://keralatourism.travel/images/places-to-visit/headers/vembanad-lake-alleppey-tourism-entry-fee-timings-holidays-reviews-header.jpg",
           "description":
             "The longest lake in India and a major backwater tourism destination."
         },
         {
           "name": "Ettumanoor Mahadeva Temple",
           "image":
-            "https://images.pexels.com/photos/3810915/pexels-photo-3810915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ettumanoor_Mahadeva_Temple.jpg/1200px-Ettumanoor_Mahadeva_Temple.jpg",
           "description":
             "A famous Shiva temple known for its murals and architecture."
         }
@@ -166,7 +165,7 @@
         {
           "name": "Kozhikode Beach",
           "image":
-            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/2f/ee/ad/beypore-beach.jpg?w=1200&h=1200&s=1",
+            "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0e/d5/18/2b/psx-20170319-125048-largejpg.jpg",
           "description":
             "A popular beach known for its sunset views and seafood."
         },
@@ -274,7 +273,7 @@
         {
           "name": "Vadakkunnathan Temple",
           "image":
-            "https://www.trawell.in/admin/images/upload/153110127Vadakumnathan_Temple_Main.jpg",
+            "https://www.bluebirdtravels.in/wp-content/uploads/2017/02/Vadakkumnatha_Kshethram_Trichur-1200x675-cropped.jpg",
           "description": "An ancient temple and UNESCO World Heritage site."
         },
         {
