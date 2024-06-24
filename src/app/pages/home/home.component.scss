@@ -84,9 +84,21 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+.small-screen-image {
+    display: none;
+}
+
 @media (max-width: 768px) {
     .container {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hover-image {
+        display: none;
+    }
+
+    .small-screen-image {
+        display: block;
     }
 }
 
@@ -109,5 +121,13 @@
 
     .carousel-video {
         height: auto;
+    }
+
+    .hover-image {
+        display: none;
+    }
+
+    .small-screen-image {
+        display: block;
     }
 }
